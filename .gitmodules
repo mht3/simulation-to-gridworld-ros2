@@ -1,0 +1,3 @@
+[submodule "gym-multigrid"]
+	path = gym-multigrid
+	url = https://github.com/ArnaudFickinger/gym-multigrid
