@@ -6,6 +6,8 @@ Capture the flag environment using ROS2 and Gazebo
 
 Running on Ubuntu 20.04, ROS2 Foxy
 
+> **_NOTE:_**  Copied From [Tran-Research-Group](https://github.com/Tran-Research-Group)
+
 ## Instructions
 
 For one time installation and environment setup instructions, see `setup.md`.
