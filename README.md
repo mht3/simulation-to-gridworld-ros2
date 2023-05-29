@@ -84,19 +84,4 @@ In a separate terminal, run the multigrid navigation code. This file provides a 
 
 ### Video
 
-https://github.com/Tran-Research-Group/simulation-to-gridworld-ros2/assets/60635839/75065c16-5f44-413d-a907-e6695cefc13a
-
-<!-- ### Action Space
-
-TODO: Update documentation for RL use case once ROS/Gazebo and navigation framework is complete
-
-The Turtlebot itself requires x, y, z positions and roll, pitch, and yaw orientations. Because the robot essentially works in a 2D top-down plane, the only actions that matter are x and y position along with yaw.
-
-$$A(s) = \{x, y, \psi\}$$
-
-ROS2 requires us to work with Quaternions in place of Euler angles, so the representation of the action space in terms of quaternions is:
-
-TODO: Talk more about quaternions
-
-$$A(s) = \{x, y, ?\}$$ -->
-
+https://github.com/mht3/simulation-to-gridworld-ros2/assets/60635839/3ba8e306-2a89-48b4-81a5-b291363cbc02
